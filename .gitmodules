@@ -1,6 +1,12 @@
 [submodule "US-Traffic-2015"]
 	path = US-Traffic-2015
 	url = https://github.com/williamng95/US-Traffic-2015
+	branch = main
 [submodule "hdb-data"]
 	path = hdb-data
 	url = https://github.com/williamng95/hdb-data
+	branch = main
+[submodule "freeCodeCamp"]
+	path = freeCodeCamp
+	url = https://github.com/williamng95/freeCodeCamp
+	branch = main
