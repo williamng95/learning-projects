@@ -1,3 +1,6 @@
 [submodule "US-Traffic-2015"]
 	path = US-Traffic-2015
 	url = https://github.com/williamng95/US-Traffic-2015
+[submodule "hdb-data"]
+	path = hdb-data
+	url = https://github.com/williamng95/hdb-data
